@@ -1,0 +1,6 @@
+to get Changes       :  git pull
+to make your changes :  git add .
+                        git commit -m "MESSAGE"
+                        git push -u origin master
+to view status       :  git status
+to view history      :  git log ( Ctrl+Z for stop ) 

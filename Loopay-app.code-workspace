@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "loopay-frontend"
+		},
+		{
+			"path": "loopay-backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "loopay-frontend"
+	}
+}
